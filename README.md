@@ -1,5 +1,5 @@
 # Repository Description - SimuCam_AutoTest
-This repository manages the release of software packages related with the SimuCam Auto Test project, focusing on automatic self tests routines for the FPGA, isolator, driver and panel boards and its associated functions.
+This repository manages the release of software packages related with the SimuCam Auto Test project, focusing on automatic self test routines for the FPGA, isolator, driver and panel boards and its associated functions.
 
 ## Repository Contributors
 
