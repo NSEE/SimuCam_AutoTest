@@ -142,7 +142,6 @@ ACDS_VERSION := 18.1
 ELF := SimuCam_AutoTest.elf
 
 # Paths to C, C++, and assembly source files.
-C_SRCS += hello_world.c
 C_SRCS += api_drivers/ddr2/ddr2.c
 C_SRCS += api_drivers/iwf_simucam_dma/iwf_simucam_dma.c
 C_SRCS += api_drivers/sense/sense.c
@@ -164,6 +163,8 @@ C_SRCS += driver/uart/uart.c
 C_SRCS += utils/initialization_simucam.c
 C_SRCS += utils/test_module_simucam.c
 C_SRCS += utils/util.c
+C_SRCS += test/de4/ddr2_mem_test.c
+C_SRCS += simucam_autotest_main.c
 CXX_SRCS :=
 ASM_SRCS :=
 
